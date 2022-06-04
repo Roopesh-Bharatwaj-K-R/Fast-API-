@@ -10,7 +10,7 @@ download their database and load it into your API.
 Requirements:
 
 ● The API needs to have, at least, the following endpoints:
-○ Given an AS number, return the AS information
-○ Given an IP address (v4 or v6), find the AS that owns the network that the IP
+● Given an AS number, return the AS information
+● Given an IP address (v4 or v6), find the AS that owns the network that the IP
 belongs to, and return the AS information
 ● Use SQLite to store the AS information

@@ -3,7 +3,7 @@ Python Fast API
 
 Build an API
 
-We’d like to build a website that anyone can use to retrieve information about Autonomous
+To build a website that anyone can use to retrieve information about Autonomous
 System (AS) providers. Your task is to build the API that the website will use.
 To power the API, you can use the database offered at: https://iptoasn.com/. You need to
 download their database and load it into your API.
